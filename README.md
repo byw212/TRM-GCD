@@ -3,10 +3,6 @@
 Enhanced Generalized Category Discovery </h1>
 </div>
 
-<div align="center">
-  <h3>Yuwei Bian, Shidong Wang, 
-Chunming Li, Zheng Zhang, Haofeng Zhang, Ling Shao </h3>
-</div>
 
 <!-- <p align="center">
   <img src="assets/overview.png" alt="result" width="60%" align="right"/>
